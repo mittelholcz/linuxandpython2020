@@ -6,4 +6,4 @@ Cél: A Linux és parancssor használatának bemutatása. Bevezetés a programoz
 
 | Alkalom | Leírás |
 |--------:|--------|
-| [0.](https://github.com/mittelholcz/python2020/blob/master/00.intro/)   | Alapfogalmak: Linux, kernel, shell. Paranccsori alapok: help, manual, fájlkezelés. STDIN, STDOUT, STDERR és ezek átirányítása. Pipeline. |
+| [0.](https://github.com/mittelholcz/linuxandpython2020/blob/master/00.intro/)   | Alapfogalmak: Linux, kernel, shell. Paranccsori alapok: help, manual, fájlkezelés. |
