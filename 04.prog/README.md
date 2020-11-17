@@ -1,6 +1,6 @@
 # Programozás, típusok, értékadás
 
-(2019. 11. 17.)
+(2020. 11. 17.)
 
 Mittelholcz Iván
 
