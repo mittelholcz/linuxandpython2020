@@ -15,7 +15,7 @@ python
 - nem kell fájlt megadni
 - gyorsan ki lehet próbálni egy ötletet
 - az iypthon jobb (szintaxis, kiegészítés TAB-bal, indentálás)
-  - telepítés:  `sudo pip install jupyter`
+  - telepítés: `pip install jupyter` (virtualenv-ben) vagy `pip install --user jupyter` (sima felhasználóként)
   - indítás: `ipython`
 - előzmények: felfele/lefele nyíl
 - kilépés: Ctrl+D
