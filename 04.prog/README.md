@@ -1,4 +1,4 @@
-# Programozás, típusok, értékadás
+# Algoritmus, implementálás, futtatás
 
 (2020. 11. 17.)
 
