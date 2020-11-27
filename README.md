@@ -12,3 +12,4 @@ Cél: A Linux és parancssor használatának bemutatása. Bevezetés a programoz
 | 3. | Verziókezelés, Git |
 | [4.](https://github.com/mittelholcz/linuxandpython2020/blob/master/04.prog/)    | Algoritmus, implementálás, futtatás |
 | [5.](https://github.com/mittelholcz/linuxandpython2020/blob/master/05.types/)   | Változók és értékadás, egyszerű adattípusok |
+| [6.](https://github.com/mittelholcz/linuxandpython2020/blob/master/06.comp/)    | Összetett adattípusok |
